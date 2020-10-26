@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#flag {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 35% 75%;
+}
+
+img{ 
+    width: 100%;
+}
+#topTable {
+    height: 100%;
+    border-spacing: 0;
+}
+
+#topTable tr:nth-child(odd) {
+    background-color: red;
+}
+
+#bottomTable {
+    height: 264px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border-spacing: 0;
+}
+
+#bottomTable tr:nth-child(even) {
+    background-color: red;
+}
