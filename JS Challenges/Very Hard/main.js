@@ -1,9 +1,9 @@
-var num1String = window.prompt('Tell me your first number!')
-var num2String = window.prompt('Tell me your second number!')
-var operator = window.prompt('What do you want to do with these two numbers? (hint: add/+, subtract/-, multiply/*, or divide//')
+var num1String = prompt('Tell me your first number!')
+var num2String = prompt('Tell me your second number!')
+var operator = prompt('What do you want to do with these two numbers? (hint: add/+, subtract/-, multiply/*, or divide//')
 
-var num1 = Number(num1String)
-var num2 = Number(num2String)
+var num1 = parseInt(num1String)
+var num2 = parseInt(num2String)
 
 function add() {
     var added = num1 + num2 
