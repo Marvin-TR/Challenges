@@ -1,0 +1,69 @@
+{"employees": [{
+    "employeeID": 1,
+    "name": "Ricardo",
+    "salary": 35000,
+    "deparment": "construnction"
+},
+
+{
+    "employeeID": 2,
+    "name": "Jose",
+    "salary": 37000,
+    "deparment": "House Washing"
+},
+
+{
+    "employeeID": 3,
+    "name": "Marcos",
+    "salary": 34000,
+    "deparment": "Gamer"
+},
+
+{
+    "employeeID": 4,
+    "name": "Marvin",
+    "salary": 100000,
+    "deparment": "Super Gamer"
+},
+
+{
+    "employeeID": 5,
+    "name": "Lucy",
+    "salary": 200000,
+    "deparment": "Super Extra Gamer"
+},
+
+{
+    "employeeID": 6,
+    "name": "Anh",
+    "salary": 10,
+    "deparment": "Not Gamer"
+},
+
+{
+    "employeeID": 7,
+    "name": "Kiana",
+    "salary": 9,
+    "deparment": "Even Less Gamer"
+},
+
+{
+    "employeeID": 8,
+    "name": "Alina",
+    "salary": 90000,
+    "deparment": "Nurse"
+},
+
+{
+    "employeeID": 9,
+    "name": "Nikia",
+    "salary": 60000,
+    "deparment": "KFC Chashier"
+},
+
+{
+    "employeeID": 10,
+    "name": "John",
+    "salary": 75000,
+    "deparment": "Carry"
+}]}
