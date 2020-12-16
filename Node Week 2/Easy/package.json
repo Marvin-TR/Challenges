@@ -1,0 +1,24 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Marvin",
+  "license": "ISC",
+  "description": "Easy challenge",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvin-TR/Node_Week2_Easy_How-To-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marvin-TR/Node_Week2_Easy_How-To-NPM/issues"
+  },
+  "homepage": "https://github.com/Marvin-TR/Node_Week2_Easy_How-To-NPM#readme"
+}
